@@ -6,7 +6,7 @@ The purpose of this project was to assist a school district with analyzing stand
 Utilizing Jupyter Notebook and the pandas library, the standarized test score data was organized by school, by grade, by school type, school size and school budget to compare performance and identify trends based on these classifications. Additionally, to make the analysis presentable, the data was cleaned to standardize naming conventions as well as number formatting. The last step was to remove test data for one school which may have been comprimised. Removing this potentially inaccurate data ensured that the final analysis was as accurate as possible. 
 
 ## Project Results 
-### District Analyis
+### District Analysis
 - Data from two dataframes, one with school data and another with student data (available for reference in the "Resources" folder), were merged in order to determine the number of students within the school district in addition to number of schools within the district. 
 - The data was then analyzed to determine the average reading and math scores as well as the percent of students passing either math, reading, or both math and reading (based on the passing threshold of 70%). 
 - This output provided a high-level indication of how the schools within the district were performing as a whole, before digging deeper into individual school performance. 
