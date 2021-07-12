@@ -7,8 +7,8 @@ Utilizing Jupyter Notebook and the pandas library, the standarized test score da
 
 ## Project Results 
 ### District Analyis
-- Data from two dataframes, one with school data and another with student data (available for reference in the "Resources" folder) were merged in order to determine number of students within the district in addition to number of schools within the district. 
-- The data was then analyzed to determine the average reading and math scores as well as the percent of students pathing either math, reading, or both math and reading (based on the passing threshold of 70%). 
+- Data from two dataframes, one with school data and another with student data (available for reference in the "Resources" folder), were merged in order to determine the number of students within the school district in addition to number of schools within the district. 
+- The data was then analyzed to determine the average reading and math scores as well as the percent of students passing either math, reading, or both math and reading (based on the passing threshold of 70%). 
 - This output provided a high-level indication of how the schools within the district were performing as a whole, before digging deeper into individual school performance. 
 - The data was then manipulated to remove the grades for Thomas High School 9th graders, which was determined to be inaccurate. The results were compared to determine how the performance data was affected by this update.
 - The updated analysis showed a slightly lower passing percentage by subject and overall. The difference was slight with this view, but given that the district view includes all schools, a change to remove data for one grade from one school may not make a meaningful difference.
